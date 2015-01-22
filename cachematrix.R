@@ -7,6 +7,7 @@ makeCacheMatrix <- function(x = matrix())
 {
 	## this function caches the matrix somehow
 	## actually write the function
+	## why won't it push
 }
 
 
